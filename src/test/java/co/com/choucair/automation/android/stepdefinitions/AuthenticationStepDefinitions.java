@@ -2,8 +2,7 @@ package co.com.choucair.automation.android.stepdefinitions;
 
 import co.com.choucair.automation.android.tasks.Login;
 import co.com.choucair.automation.android.tasks.OpenThe;
-import co.com.choucair.automation.android.tasks.Verify;
-import com.google.inject.internal.asm.$ConstantDynamic;
+import co.com.choucair.automation.android.questions.Verify;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;

@@ -1,4 +1,4 @@
-package co.com.choucair.automation.android.tasks;
+package co.com.choucair.automation.android.questions;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
